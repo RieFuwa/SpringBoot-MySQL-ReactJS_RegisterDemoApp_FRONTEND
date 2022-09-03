@@ -5,7 +5,7 @@
 ![2](https://user-images.githubusercontent.com/71210936/188272393-688d3ece-2d6b-46f3-893e-084ad491f741.JPG)
 
 
-# Getting Started with Create Re![Uploading 1.JPG…]()
+# Getting Started with Create
 act App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
