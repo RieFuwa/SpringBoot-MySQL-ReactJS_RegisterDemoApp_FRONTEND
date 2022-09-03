@@ -1,6 +1,8 @@
 ## What the app looks like
 ![1](https://user-images.githubusercontent.com/71210936/188272322-1c2640b7-b4b9-43f9-b101-cfb4d68951ba.JPG)
 
+## Database
+![2](https://user-images.githubusercontent.com/71210936/188272393-688d3ece-2d6b-46f3-893e-084ad491f741.JPG)
 
 
 # Getting Started with Create Re![Uploading 1.JPG…]()
